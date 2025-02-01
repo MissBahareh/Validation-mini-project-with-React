@@ -1,0 +1,29 @@
+.mainDivCart {
+  width: 80%;
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(57, 12, 67, 0.416);
+}
+.inputCart {
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  text-align: center;
+}
+.h1Styel {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+.spanStyle {
+  color: red;
+  font-size: 16px;
+  margin-bottom: 20px;
+  letter-spacing: 5px;
+}
